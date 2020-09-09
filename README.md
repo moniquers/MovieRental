@@ -1,4 +1,4 @@
-Projeto de avaliação que implementa um sistema de locadora de filmes desenvolvido com seguintes tecnologias:
+Projeto de avaliação que implementa um sistema de locadora de filmes desenvolvido com as seguintes tecnologias:
   - Arquitetura em 3 camadas
   - ASP.Net Core MVC
   - SQLServer + EF Core
